@@ -27,8 +27,6 @@ The design prioritises:
 - Easy repair in the pit lane
 - Compliance with the original chassis rules
 
-Competition page: <https://unstop.com/competitions/le-mansar-iit-jammu-1761316>
-
 ---
 
 ## 🏁 Race Result
@@ -145,8 +143,6 @@ Steering Servo   2x SimonK 30A ESC
 | Foam Bumper | 1 | Front impact protection |
 | Body Film | 1 | Covers electronics |
 
-> Add motor model, KV, battery cell count and exact weight here once finalised.
-
 ---
 
 ## 📐 Chassis
@@ -257,19 +253,6 @@ Swap any two of the three motor wires.
 
 ---
 
-## 🙌 Team and Credits
-
-Built and driven by **Kaushal Kumar**, Tech Mentor at E-yantra, Central University of Jammu.
-
-Thanks to:
-
-- **Vyom Upadhyay**
-- **Shubh Aryan**
-- **Aman Sharma**
-- **Sparsh Kumar** (senior) for helping us get components and key parts
-- **Robo-Sapiens, Robotics Club, IIT Jammu** for a well-organised event
-
----
 
 ## 📂 Repository Structure
 
